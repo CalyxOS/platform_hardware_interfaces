@@ -33,6 +33,24 @@
       "message": "We should update the devices instead. coral has a patch and it looks easy to port to older devices",
       "revId": "5372e3844f8c3ff8c40e56eea67bf9c4f1cd7858",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bc9fad6_04fc4f49",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-06-12T14:42:30Z",
+      "side": 1,
+      "message": "Agreed, I couldn\u0027t find the patch from a quick look and just wanted things to build last night.",
+      "parentUuid": "c7da81e1_33a3d4fb",
+      "revId": "5372e3844f8c3ff8c40e56eea67bf9c4f1cd7858",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
