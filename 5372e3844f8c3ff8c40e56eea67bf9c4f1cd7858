@@ -51,6 +51,24 @@
       "parentUuid": "c7da81e1_33a3d4fb",
       "revId": "5372e3844f8c3ff8c40e56eea67bf9c4f1cd7858",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b73fbdae_82408db0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-06-12T14:42:50Z",
+      "side": 1,
+      "message": "https://android.googlesource.com/device/google/coral/+/392c1d539cc70648b85628c45df6cd991f34c11f 4 years ago!",
+      "parentUuid": "0bc9fad6_04fc4f49",
+      "revId": "5372e3844f8c3ff8c40e56eea67bf9c4f1cd7858",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
