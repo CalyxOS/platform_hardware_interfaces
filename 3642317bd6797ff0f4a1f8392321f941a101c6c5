@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "107e6347_19aad681",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-06-12T15:02:31Z",
+      "side": 1,
+      "message": "Good to go if my changes in PS2 are fine",
+      "revId": "3642317bd6797ff0f4a1f8392321f941a101c6c5",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
