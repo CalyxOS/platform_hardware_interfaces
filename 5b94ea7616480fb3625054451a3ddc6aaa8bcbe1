@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "413b9169_f49f103b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000235
+      },
+      "writtenOn": "2026-08-12T16:25:05Z",
+      "side": 1,
+      "message": "Not needed for any shipping devices, unless we decide to support the 5.10 qcom SoCs.",
+      "revId": "5b94ea7616480fb3625054451a3ddc6aaa8bcbe1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
