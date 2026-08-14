@@ -16,6 +16,23 @@
       "message": "Not needed for any shipping devices, unless we decide to support the 5.10 qcom SoCs.",
       "revId": "5b94ea7616480fb3625054451a3ddc6aaa8bcbe1",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "672c1457_3b28b57b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-08-14T22:51:11Z",
+      "side": 1,
+      "message": "Doesn\u0027t hurt to merge this, it\u0027s a small change",
+      "revId": "5b94ea7616480fb3625054451a3ddc6aaa8bcbe1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
